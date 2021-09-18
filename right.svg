@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62.099998mm"
+   height="246.10001mm"
+   viewBox="0 0 62.099998 246.10001"
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg8"
+   sodipodi:docname="side_4.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="0.45112795"
+     inkscape:cx="-80.908311"
+     inkscape:cy="120.8083"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1600"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svgGroup"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="svgGroup"
+     stroke-linecap="round"
+     fill-rule="evenodd"
+     font-size="12px"
+     stroke="#000"
+     stroke-width="0.25mm"
+     fill="none"
+     style="fill:none;stroke:#000000;stroke-width:0.25mm"
+     transform="translate(-256.95,-248.95)">
+    <path
+       d="M 271,494.414 V 491 h 10 v 3.414 l 0.586,0.586 h 12.828 L 295,494.414 V 491 h 10 v 3.414 l 0.586,0.586 h 8.828 L 315,494.414 V 475 h 3.414 L 319,474.414 V 461.586 L 318.414,461 H 315 v -10 h 3.414 L 319,450.414 V 437.586 L 318.414,437 H 315 v -10 h 3.414 L 319,426.414 V 413.586 L 318.414,413 H 315 v -10 h 3.414 L 319,402.414 V 389.586 L 318.414,389 H 315 v -10 h 3.414 L 319,378.414 V 365.586 L 318.414,365 H 315 v -10 h 3.414 L 319,354.414 V 341.586 L 318.414,341 H 315 v -10 h 3.414 L 319,330.414 V 317.586 L 318.414,317 H 315 v -10 h 3.414 L 319,306.414 V 293.586 L 318.414,293 H 315 v -10 h 3.414 L 319,282.414 V 269.586 L 318.414,269 H 315 V 249.586 L 314.414,249 H 261.586 L 261,249.586 V 269 h -3.414 L 257,269.586 v 12.828 L 257.586,283 H 261 v 10 h -3.414 L 257,293.586 v 12.828 L 257.586,307 H 261 v 10 h -3.414 L 257,317.586 v 12.828 L 257.586,331 H 261 v 10 h -3.414 L 257,341.586 v 12.828 L 257.586,355 H 261 v 10 h -3.414 L 257,365.586 v 12.828 L 257.586,379 H 261 v 10 h -3.414 L 257,389.586 v 12.828 L 257.586,403 H 261 v 10 h -3.414 L 257,413.586 v 12.828 L 257.586,427 H 261 v 10 h -3.414 L 257,437.586 v 12.828 L 257.586,451 H 261 v 10 h -3.414 L 257,461.586 v 12.828 L 257.586,475 H 261 v 19.414 l 0.586,0.586 h 8.828 z"
+       id="left_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="stroke:#ff0000;stroke-width:0.1"
+       vector-effect="non-scaling-stroke" />
+  </g>
+</svg>
